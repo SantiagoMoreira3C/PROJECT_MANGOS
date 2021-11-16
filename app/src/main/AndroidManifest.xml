@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="facci.am1.mangos">
 
     <application
@@ -9,6 +10,9 @@
         android:roundIcon="@mipmap/iconmango_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MANGOS">
+        <activity
+            android:name=".ListaConDataDummy"
+            android:exported="false" />
         <activity
             android:name=".EditarConfiguracionActivity"
             android:exported="false" />
@@ -45,5 +49,3 @@
     </application>
 
 </manifest>
-
-

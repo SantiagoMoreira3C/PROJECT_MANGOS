@@ -5,8 +5,12 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.view.ViewGroup;
+
 
 public class ListaActivity extends AppCompatActivity {
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,4 +24,10 @@ public class ListaActivity extends AppCompatActivity {
         startActivity(lista);
     }
 
+
+    public void MetodoMostrarproveedor(View view) {
+       Intent  mostrarproveedor = new Intent(this, ListaConDataDummy.class);
+       startActivity(mostrarproveedor);
+
+    }
 }
