@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">APPMAGO_AS</string>
+    <string name="app_name">MANGOS</string>
     <string name="usuario_login">Usuario</string>
     <string name="contraseña_login">Contraseña</string>
     <string name="boton_ingreso_login">Iniciar Sesión </string>
