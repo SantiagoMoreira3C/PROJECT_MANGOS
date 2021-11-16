@@ -1,4 +1,4 @@
-package faccie.gabymendoza.appmago_as;
+package facci.am1.mangos;
 
 import androidx.appcompat.app.AppCompatActivity;
 
