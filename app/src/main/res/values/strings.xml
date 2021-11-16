@@ -1,3 +1,36 @@
 <resources>
-    <string name="app_name">MANGOS</string>
+    <string name="app_name">APPMAGO_AS</string>
+    <string name="usuario_login">Usuario</string>
+    <string name="contraseña_login">Contraseña</string>
+    <string name="boton_ingreso_login">Iniciar Sesión </string>
+    <string name="boton_registro_login">Regístrate</string>
+
+    <string name="nombre_registro">Nombre</string>
+    <string name="correo_registro">Correo</string>
+    <string name="crear_cuenta">Crear Cuenta </string>
+    <string name="contraseña_registro">Contraseña</string>
+    <string name="boton_registro_cuenta">Registrar </string>
+
+    <string name="menu_lista"> Mi Lista</string>
+    <string name="menu_producto">Agregar Producto</string>
+    <string name="menu_categodria">Agregar Categoria</string>
+    <string name="menu_proveedor">Agregar Proveedor</string>
+    <string name="menu_salir">Cerrar Sesion</string>
+    <string name="menu_configuracion">Editar Cuenta </string>
+
+    <string name="botton_editar_iformacion_configuracion">Editar Informacion</string>
+    <string name="nombre_perfil_configuracion">Rosa Palma</string>
+    <string name="nombre_usuario_configuracion">Usuario</string>
+    <string name="correro_confihuracion">Correro</string>
+
+    <string name="botton_editar_iformacion_configuracion_editar">Actualizar Informacion</string>
+    <string name="nombre_perfil_configuracion_editar">Rosa Palma</string>
+    <string name="nombre_usuario_configuracion_editar">Ingrese nuevo nombre</string>
+    <string name="correro_confihuracion_editar">ingrese nuevo correo</string>
+
+    <string name="boton_lista_lista"> Mi Lista</string>
+    <string name="boton_Categoria_lista"> Lista Categoria</string>
+    <string name="boton_proveedor_lista"> Lista Proveedor</string>
+    <string name="boton_producto_lista"> Lista Prodcuto </string>
+
 </resources>
